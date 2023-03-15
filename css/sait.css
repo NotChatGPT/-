@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: Arial, sans-serif;
+    color: rgb(97, 102, 107);
+    background-color: #ffffff;
+}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+}
+section {
+    margin-bottom: 85px;
+}
+p {
+font-size: 18px;
+line-height: 28px;
+}
+.bg-red {
+    background: #fb0909;
+}
+.container {
+    padding: 10px 20px 30px;
+    max-width: 1144px;
+    padding: 10 100px;
+    margin: 0 auto;
+}
